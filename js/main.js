@@ -1,3 +1,3 @@
 function my Function() {
-  document.getElementById("JoseMancia").innerHTML = "You Hit Da Button!";
+  document.getElementById("demo").innerHTML = "There was no private information";
 }
